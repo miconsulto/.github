@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" width="96" alt="miconsulto" />
+</p>
+
 # miconsulto
 
 Construímos e operamos produtos web próprios — do site institucional ao SaaS com cobrança, em produção, com CI/CD e observabilidade.
